@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Unignore Plasma Settings
+!Plasma Settings/
+!Plasma Settings/**
+!.gitignore
