@@ -3,4 +3,6 @@
 # Unignore Plasma Settings
 !Plasma Settings/
 !Plasma Settings/**
+!Apps/
+!Apps/**
 !.gitignore
